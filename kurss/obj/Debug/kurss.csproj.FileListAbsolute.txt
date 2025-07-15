@@ -1,0 +1,11 @@
+D:\level 2\численные методы\kurs\kurss\kurss\bin\Debug\kurss.exe.config
+D:\level 2\численные методы\kurs\kurss\kurss\bin\Debug\kurss.exe
+D:\level 2\численные методы\kurs\kurss\kurss\bin\Debug\kurss.pdb
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.csproj.AssemblyReference.cache
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.csproj.SuggestedBindingRedirects.cache
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.Form1.resources
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.Properties.Resources.resources
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.csproj.GenerateResource.cache
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.csproj.CoreCompileInputs.cache
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.exe
+D:\level 2\численные методы\kurs\kurss\kurss\obj\Debug\kurss.pdb
